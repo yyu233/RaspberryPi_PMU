@@ -1,0 +1,1 @@
+cmd_/home/dev/RPdev/part1/pmuon/Module.symvers := sed 's/ko$$/o/' /home/dev/RPdev/part1/pmuon/modules.order | scripts/mod/modpost -m -a   -o /home/dev/RPdev/part1/pmuon/Module.symvers -e -i Module.symvers   -T -

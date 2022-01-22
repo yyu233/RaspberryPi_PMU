@@ -1,0 +1,1 @@
+cmd_/home/dev/RPdev/part1/cross_hello/hello.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/dev/RPdev/part1/cross_hello/hello.ko /home/dev/RPdev/part1/cross_hello/hello.o /home/dev/RPdev/part1/cross_hello/hello.mod.o;  true

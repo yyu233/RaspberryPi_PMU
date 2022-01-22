@@ -1,0 +1,1 @@
+cmd_/home/dev/RPdev/part1/pmuon/pmuon.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/dev/RPdev/part1/pmuon/pmuon.ko /home/dev/RPdev/part1/pmuon/pmuon.o /home/dev/RPdev/part1/pmuon/pmuon.mod.o;  true
